@@ -1,0 +1,12 @@
+oscars-MBP:~ oscarugalde$ ls
+Applications		Downloads		Pictures
+Creative Cloud Files	Library			Public
+Desktop			Movies			homework
+Documents		Music
+oscars-MBP:~ oscarugalde$ cd desktop
+oscars-MBP:desktop oscarugalde$ cd summer2021-webdesign-oscar
+oscars-MBP:summer2021-webdesign-oscar oscarugalde$ mkdir homework
+mkdir: homework: File exists
+oscars-MBP:summer2021-webdesign-oscar oscarugalde$ cd homework
+oscars-MBP:homework oscarugalde$ touch homework1-2.txt
+oscars-MBP:homework oscarugalde$ 
