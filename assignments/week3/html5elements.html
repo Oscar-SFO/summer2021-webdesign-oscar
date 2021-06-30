@@ -8,7 +8,7 @@
 
     <style>
 
-        p{
+        p, h1 {
             margin-block-start: 0px;
             margin-block-end: 0px;
         }
@@ -19,25 +19,44 @@
             padding: 20px;
         }
 
-        #yellowbox {
+        #yellowbox, #purplebox {
+            display: inline-block;
             width: 200px;
             height: 100px;
             background-color: rgb(247, 230, 4);
             padding-left: 20px;
             padding-top: 20px;
             margin-top: 20px;
-            border: 10px red solid;
-            margin-bottom: 40px;
+            margin-left: 20px;
+            border: 5px red solid;
             border-radius: 20px;
             }
 
-        #redbox {
+            #purplebox {
+                background-color: royalblue;
+                width: 300px;
+            }
+
+        #redbox, #bluebox {
 
             width: 200px;
             height: 100px;
+            margin-left: 20px;
             background-color: rgb(240, 9, 9);
+            padding-right: 20px;
             margin-top: 150px;
             
+            }
+
+            #bluebox {
+                background-color: slateblue;
+            }
+
+            #body > p {
+                display: inline;
+                vertical-align: bottom;
+
+
             }
 
 
@@ -54,6 +73,18 @@
 
     </div>
 
+
+    <div id="purplebox">
+        <p>Hello</p>
+
+    </id>
+
+    <div id="bluebox">
+
+    </div> 
+    
+    <p>This should be next to the purple box</p>
+
     
     <header></header>
 
@@ -62,4 +93,4 @@
     <footer></footer>
     
 </body>
-</html>
+</html> 
