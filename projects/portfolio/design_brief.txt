@@ -1,0 +1,37 @@
+
+Color Palette
+
+Nav Menu: (Dark Grey) #333333
+Cover Body (Text): (Light Grey) #929296
+Background Color (Body): (White) #fbfbfd
+Footer: (Black) #000000 
+
+Reason why:
+
+I chose these colors because they create a contrast between them that makes it easy to read and is visually pleasing to the visitor.
+Also taking into account that these colors are highly contrasting with any other color that can be implemented on the web page.
+
+Font:
+
+Heading: Ubuntu Medium 500.
+
+Text: Ubuntu Light 300.
+
+Pages:
+
+ABOUT ME: 
+
+I am Oscar, born in Costa Rica, I moved to San Francisco 11 years ago and since then this city has not ceased to amaze me...one of the things that I thank the city the most was getting together with many people from around the world with which it has allowed me to play with very talented people who like me share the same love for music.
+
+Music represents for me the greatest manifestation of joy that I can experience, as long as I am playing an instrument and sharing with other sounds there will always be happiness in me and in those around me.
+
+THE CONTACT PAGE:
+On my contact page you will be able to determine which is the most convenient way to get in touch with me.
+That is why I leave my phone number, my URL and my email address here, I hope to hear from you and your project soon.
+
+THE PROJECTS PAGE:
+
+Here you can find a list of many of the projects in which I have participated both as a designer and as a programmer.
+
+My advanced knowledge in HTML and CSS, make my designs have the flexibility to be executed easily and quickly by developers.
+
